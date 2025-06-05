@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size:24px;">VAISHALI GUPTA</strong><br>
+  <strong style="font-size:26px;">VAISHALI GUPTA</strong><br>
   <em>Software Engineer, Backend, Distributed Systems</em><br>
   Bengaluru, KA | vaishaligupta028@gmail.com | <a href="https://www.linkedin.com/in/vaishaligupta28/" target="_blank">LinkedIn</a>
 </p>
